@@ -1,0 +1,9 @@
+dl.accordianList {margin:0; padding:0; line-height:1.4em;}
+dl.accordianList dt {margin-bottom:5px; font-size:1.1em; font-weight:bold;}
+dl.accordianList dd {margin:0 0 30px 0; padding:0 0 0 22px;}
+
+dl.accordianList dt span {text-decoration:underline;}
+dl.accordianList .indicatorIcon {float:left; display:inline; width:15px; height:15px; margin:2px 7px 0 0; text-decoration:none; background:url(/images/layout/icon_truncate.gif) no-repeat 0 0;}
+dl.accordianList dt.al-close {color:#1d4f0f;}
+dl.accordianList dt.al-open span {text-decoration:none;}
+dl.accordianList dt.al-open .indicatorIcon {background-position:0 -15px;}
